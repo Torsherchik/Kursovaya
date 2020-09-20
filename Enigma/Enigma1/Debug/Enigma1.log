@@ -1,0 +1,32 @@
+﻿  SimEnigma.cpp
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(43,57): warning C4677: rottor1: сигнатура члена, не являющегося частным, содержит частный тип сборки "Rottor"
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\rottor.h(3): message : см. объявление "Rottor"
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(44,57): warning C4677: rottor2: сигнатура члена, не являющегося частным, содержит частный тип сборки "Rottor"
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\rottor.h(3): message : см. объявление "Rottor"
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(45,52): warning C4677: rottor3: сигнатура члена, не являющегося частным, содержит частный тип сборки "Rottor"
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\rottor.h(3): message : см. объявление "Rottor"
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(58,55): warning C4677: reflector: сигнатура члена, не являющегося частным, содержит частный тип сборки "Rottor"
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\rottor.h(3): message : см. объявление "Rottor"
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(675,10): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(685,10): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(695,10): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(706,10): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(717,10): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(727,10): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(801,36): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(801,10): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(802,36): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(802,10): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(804,39): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(808,40): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(810,31): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(810,17): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(814,40): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(868,33): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(869,33): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Mi\source\repos\project1\Enigma\Enigma1\SimEnigma.h(870,33): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  rottor.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  SimEnigma.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Enigma1.vcxproj -> C:\Users\Mi\Source\Repos\project1\Enigma\Debug\Enigma1.exe
