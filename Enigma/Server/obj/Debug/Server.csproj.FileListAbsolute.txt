@@ -1,0 +1,18 @@
+C:\My Files\Instaling\Enigma1(копия)\Server\bin\Debug\Server.exe.config
+C:\My Files\Instaling\Enigma1(копия)\Server\bin\Debug\Server.exe
+C:\My Files\Instaling\Enigma1(копия)\Server\bin\Debug\Server.pdb
+C:\My Files\Instaling\Enigma1(копия)\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\My Files\Instaling\Enigma1(копия)\Server\obj\Debug\Server.exe
+C:\My Files\Instaling\Enigma1(копия)\Server\obj\Debug\Server.pdb
+C:\Users\Mi\source\repos\Enigma\Server\bin\Debug\Server.exe.config
+C:\Users\Mi\source\repos\Enigma\Server\bin\Debug\Server.exe
+C:\Users\Mi\source\repos\Enigma\Server\bin\Debug\Server.pdb
+C:\Users\Mi\source\repos\Enigma\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\Enigma\Server\obj\Debug\Server.exe
+C:\Users\Mi\source\repos\Enigma\Server\obj\Debug\Server.pdb
+C:\Users\Mi\Source\Repos\project1\Enigma\Server\bin\Debug\Server.exe.config
+C:\Users\Mi\Source\Repos\project1\Enigma\Server\bin\Debug\Server.exe
+C:\Users\Mi\Source\Repos\project1\Enigma\Server\bin\Debug\Server.pdb
+C:\Users\Mi\Source\Repos\project1\Enigma\Server\obj\Debug\Server.exe
+C:\Users\Mi\Source\Repos\project1\Enigma\Server\obj\Debug\Server.pdb
+C:\Users\Mi\Source\Repos\project1\Enigma\Server\obj\Debug\Server.csprojAssemblyReference.cache
